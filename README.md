@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyash P Prabhudesai</h1>
-<h3 align="center">Cybersecurity Enthusiasts</h3>
+<h3 align="center">Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroundtheplanet&label=Profile%20views&color=0e75b6&style=flat" alt="aroundtheplanet" /> </p>
 
